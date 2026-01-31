@@ -108,3 +108,4 @@ Cloud Platform: Amazon Web Services (AWS)
 🚀 Live Demo
 
 👉 Play the game here:
+https://main.d78kgp35yrvx7.amplifyapp.com/
